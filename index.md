@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Batdev0829 =-= Dev Showcase
 ---
 
